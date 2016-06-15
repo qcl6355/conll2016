@@ -15,7 +15,7 @@ Components
 
 Running
 ======
-1. training each model respectively
+Training each model respectively
 
 ``` python connective.py ```
 
@@ -25,5 +25,9 @@ Running
 
 ``` python nonexp.py ```
 
-2. get end-to-end result
+Get end-to-end result
+
 ``` python end2end.py -o ../report -r dev.out.json ```
+
+=====
+N.B. zh/ part is the final submission system for chinese shallow discourse parsing.
