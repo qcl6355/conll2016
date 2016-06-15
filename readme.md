@@ -16,9 +16,13 @@ Components
 Running
 ======
 1. training each model respectively
+
 ``` python connective.py ```
+
 ``` python argument.py ```
+
 ``` python explicit.py ```
+
 ``` python nonexp.py ```
 
 2. get end-to-end result
