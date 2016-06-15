@@ -5,10 +5,13 @@ Soochow University Shallow Discourse Parsing System
 
 Components
 ======
-Connective Identification ==> connective.py
-Argument Labeling ==> argument.py
-Explicit Sense Classification ==> explicit.py
-NonExplicit Sense Classification ==> nonexp.py
+1. Connective Identification ==> connective.py
+
+2. Argument Labeling ==> argument.py
+
+3. Explicit Sense Classification ==> explicit.py
+
+4. NonExplicit Sense Classification ==> nonexp.py
 
 Running
 ======
