@@ -30,4 +30,4 @@ Get end-to-end result
 ``` python end2end.py -o ../report -r dev.out.json ```
 
 =====
-N.B. zh/ part is the final submission system for chinese shallow discourse parsing.
+N.B. zh/ part is _not_ the final submission system for chinese shallow discourse parsing.
